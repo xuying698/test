@@ -1,2 +1,2 @@
 something Creating a new branch is quick AND simple.
-editor
+editor bug
